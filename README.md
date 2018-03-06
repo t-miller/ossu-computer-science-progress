@@ -39,8 +39,17 @@ Course # | School | Course | Completion Date | Proof | Repository
 7  | University of Washington  | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  | -  | -  | -
 8  | University of Washington  |  [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  | -  | -  |  -
 9  | University of Washington  | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  | -  | -  |
-10 | N/A | [Learn You a Haskell for a Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters) | - | - | - |
-11 | N/A | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://www.learnprolognow.org/lpnpage.php?pageid=online) | - | - | - |
+10 | - | [Learn You a Haskell for a Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters) | - | - | - |
+11 | - | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://www.learnprolognow.org/lpnpage.php?pageid=online) | - | - | - |
+
+### Core Math
+Course # | School | Course | Completion Date | Proof | Repository
+:--: | :--: | :--: | :--: | :--: | :--:
+12 | - | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | -
+13 | UTAustinX | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04) | - | - | -
+14 | The Ohio State University | [Calculus One](https://www.coursera.org/learn/calculus1) | - | - | -
+15 | The Ohio State University | [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus) | - | - | -
+16 | MIT OCW | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | - | - | -
 
 ## Advanced CS
 
