@@ -29,6 +29,7 @@ Course # | School | Course | Completion Date | Proof | Repository
 2 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 2018/01 | [edX Progress Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/2.PNG) | [Bitbucket](https://bitbucket.org/t-miller/6.00.1x-intro-to-computer-science)
 
 ## Core CS
+### Core Programming
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 3  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | In progress | - | [Bitbucket](https://bitbucket.org/t-miller/how-to-code-simple-data)  
@@ -37,7 +38,9 @@ Course # | School | Course | Completion Date | Proof | Repository
 6  | UBCx  | [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)  |  - |-   |-  
 7  | University of Washington  | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  | -  | -  | -
 8  | University of Washington  |  [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  | -  | -  |  -
-9  | University of Washington  | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  | -  | -  |  
+9  | University of Washington  | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  | -  | -  |
+10 | N/A | [Learn You a Haskell for a Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters) | - | - | - |
+11 | N/A | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://www.learnprolognow.org/lpnpage.php?pageid=online) | - | - | - |
 
 ## Advanced CS
 
