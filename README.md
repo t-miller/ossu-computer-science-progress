@@ -18,7 +18,7 @@
 ## Introduction to Computer Science
 School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--:
-HarvardX | [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | In progress | - | -
+HarvardX | [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | In progress | - | -
 MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | - | - | -
 
 ## Core CS
