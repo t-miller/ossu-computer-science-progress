@@ -51,6 +51,14 @@ Course # | School | Course | Completion Date | Proof | Repository
 15 | The Ohio State University | [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus) | - | - | -
 16 | MIT OCW | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | - | - | -
 
+### Core Systems
+Course # | School | Course | Completion Date | Proof | Repository
+:--: | :--: | :--: | :--: | :--: | :--:
+17 | Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | - | - | -
+18 | Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | - | - | -
+19 | Stanford Lagunita | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | - | - | -
+20 | - | [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | - | - | -
+
 ## Advanced CS
 
 ## Final Project
