@@ -7,18 +7,19 @@
 </p>
 
 # Contents
+- [Summary](#summary)
 - [Progress](#progress)
   - [Introduction to Computer Science](introduction-to-computer-science)
   - [Core CS](#core-cs)
   - [Advanced CS](#advanced-cs)
   - [Final Project](#final-project)
 
+# Summary
 # Progress
-
 ## Introduction to Computer Science
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-1 | HarvardX | [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | In progress | - | -
+1 | HarvardX | [CS50's Introduction to Computer science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | In progress | - | -
 2 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | - | - | [Bitbucket](https://bitbucket.org/t-miller/6.00.1x-intro-to-computer-science)
 
 ## Core CS
