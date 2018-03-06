@@ -27,7 +27,7 @@ From the OSSU site:
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 1 | HarvardX | [CS50's Introduction to Computer science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | In progress | - | -
-2 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 2018/01 | (Proof)[proofs/2.PNG] | [Bitbucket](https://bitbucket.org/t-miller/6.00.1x-intro-to-computer-science)
+2 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 2018/01 | [Proof](proofs/2.PNG) | [Bitbucket](https://bitbucket.org/t-miller/6.00.1x-intro-to-computer-science)
 
 ## Core CS
 Course # | School | Course | Completion Date | Proof | Repository
