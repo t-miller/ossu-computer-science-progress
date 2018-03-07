@@ -25,7 +25,7 @@ The OSSU describes the program as follows.
 ## Introduction to Computer Science
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-1 | HarvardX | [CS50's Introduction to Computer science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | In progress | - | -
+1 | HarvardX | [CS50's Introduction to Computer science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | In progress | - | [Github](https://github.com/submit50/t-miller)
 2 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 2018/01 | [edX Progress Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/2.PNG) | [Bitbucket](https://bitbucket.org/t-miller/6.00.1x-intro-to-computer-science)
 
 ## Core CS
