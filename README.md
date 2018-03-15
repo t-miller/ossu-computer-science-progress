@@ -34,8 +34,8 @@ Course # | School | Course | Completion Date | Proof | Repository
 ### Core Programming
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-3  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | In progress | - | [Bitbucket](https://bitbucket.org/t-miller/how-to-code-simple-data)  
-4  |  UBCx | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  | -  | -  |  -
+3  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 2018/03 | [edX Progress Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/3_HtC1x_Proof.PNG) | [Bitbucket](https://bitbucket.org/t-miller/how-to-code-simple-data)  
+4  |  UBCx | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  | In progress  | -  |  -
 5  |  UBCx | [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)  | -  | -  | -
 6  | UBCx  | [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)  |  - |-   |-  
 7  | University of Washington  | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  | -  | -  | -
