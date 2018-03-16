@@ -61,6 +61,22 @@ Course # | School | Course | Completion Date | Proof | Repository
 19 | Stanford Lagunita | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | - | - | -
 20 | - | [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | - | - | -
 
+### Core Theory
+Course # | School | Course | Completion Date | Proof | Repository
+:--: | :--: | :--: | :--: | :--: | :--:
+21 | Stanford Lagunita | [Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | - | - | -
+22 | Stanford Lagunita | [Algorithms: Design and Analysis, Part II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) | - | - | -
+
+### Core Applications
+Course # | School | Course | Completion Date | Proof | Repository
+:--: | :--: | :--: | :--: | :--: | :--:
+23 | Stanford Lagunita | [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | - | - | -
+24 | Stanford University | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | - | -
+25 | UC San DiegoX | [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | - | - | -
+26 | Stanford University | [Cryptography I](https://www.coursera.org/course/crypto) | - | - | -
+27 | UBCx | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | - | - | -
+28 | UBCx | [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | - | - | -
+
 ## Advanced CS
 
 ## Final Project
