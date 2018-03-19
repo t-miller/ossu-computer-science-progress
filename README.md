@@ -9,7 +9,7 @@
 # Contents
 - [Summary](#summary)
 - [Progress](#progress)
-  - [Introduction to Computer Science](introduction-to-computer-science)
+  - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Core CS](#core-cs)
   - [Advanced CS](#advanced-cs)
   - [Final Project](#final-project)
