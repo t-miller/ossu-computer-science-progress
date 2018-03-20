@@ -42,7 +42,7 @@ Course # | School | Course | Completion Date | Proof | Repository
 8  | University of Washington  |  [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  | -  | -  |  -
 9  | University of Washington  | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  | -  | -  |
 10 | - | [Learn You a Haskell for a Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters) | - | - | - |
-11 | - | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://www.learnprolognow.org/lpnpage.php?pageid=online) | In progress | - | [Github](https://github.com/t-miller/learn-prolog-now) |
+11 | - | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://lpn.swi-prolog.org/lpnpage.php?pageid=online) | In progress | - | [Github](https://github.com/t-miller/learn-prolog-now) |
 
 ### Core Math
 Course # | School | Course | Completion Date | Proof | Repository
