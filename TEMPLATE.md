@@ -8,7 +8,6 @@
 
 # Contents
 - [Summary](#summary)
-- [Template](#template)
 - [Progress](#progress)
   - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Core CS](#core-cs)
@@ -24,29 +23,26 @@ OSSU describes the program as:
 >
 >It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 
-# Template
-If you would like to fork this repository to track your own progress please find the blank template [here](TEMPLATE.md). Please note it is still a work in progress.
-
 # Progress
 ## Introduction to Computer Science
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-1 | HarvardX | [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | In progress | - | [Github](https://github.com/submit50/t-miller)
-2 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 2018/01 | [edX Progress Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/2.PNG) | [Bitbucket](https://bitbucket.org/t-miller/6.00.1x-intro-to-computer-science)
+1 | HarvardX | [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | - | - | [-]()
+2 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | - | [-]() | [-]()
 
 ## Core CS
 ### Core Programming
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-3  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 2018/03 | [edX Progress Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/3_HtC1x_Proof.PNG) | [Bitbucket](https://bitbucket.org/t-miller/how-to-code-simple-data)  
-4  |  UBCx | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  | In progress  | -  |  [Bitbucket](https://bitbucket.org/t-miller/how-to-code-complex-data)
-5  |  UBCx | [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)  | In progress  | -  | [Control and Data Flow Lecture Starters (GitHub)](https://github.com/t-miller/control-and-data-flow-lecture-starters)<br><br>[Data Abstraction Lecture Starters (Github)](https://github.com/t-miller/data-abstraction-lecture-starters)<br><br>[Data Abstraction Practice Projects (GitHub)](https://github.com/t-miller/data-abstraction-practice-projects)<br><br>[Long Form Problem Starters (GitHub)](https://github.com/t-miller/long-form-problem-starters)<br><br>[Private Coursework (Bitbucket)](https://bitbucket.org/t-miller/software-construction-data-abstraction/src/develop/)
+3  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | - | [-]() | [-]()  
+4  |  UBCx | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  | - | - |  [-]()
+5  |  UBCx | [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)  | - | - | [-]()
 6  | UBCx  | [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)  |  - |-   |-  
 7  | University of Washington  | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  | -  | -  | -
 8  | University of Washington  |  [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  | -  | -  |  -
 9  | University of Washington  | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  | -  | -  | -
 10 | - | [Learn You a Haskell for a Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters) | - | - | -
-11 | - | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://lpn.swi-prolog.org/lpnpage.php?pageid=online) | In progress | - | [Github](https://github.com/t-miller/learn-prolog-now)
+11 | - | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://lpn.swi-prolog.org/lpnpage.php?pageid=online) | - | - | [-]() 
 
 ### Core Math
 Course # | School | Course | Completion Date | Proof | Repository
