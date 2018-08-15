@@ -52,7 +52,7 @@ Course # | School | Course | Completion Date | Proof | Repository
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 12 | - | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | -
-13 | UTAustinX | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04) | - | - | -
+13 | UTAustinX | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!) | - | - | -
 14 | MITx | [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x-0) | - | - | -
 15 | MITx | [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x-00) | - | - | -
 16 | MITx | [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | - | - | -
