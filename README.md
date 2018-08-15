@@ -40,9 +40,9 @@ Course # | School | Course | Completion Date | Proof | Repository
 6  | UBCx  | [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)  |  - |-   |-  
 7  | University of Washington  | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  | -  | -  | -
 8  | University of Washington  |  [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  | -  | -  |  -
-9  | University of Washington  | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  | -  | -  |
-10 | - | [Learn You a Haskell for a Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters) | - | - | - |
-11 | - | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://lpn.swi-prolog.org/lpnpage.php?pageid=online) | In progress | - | [Github](https://github.com/t-miller/learn-prolog-now) |
+9  | University of Washington  | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  | -  | -  | -
+10 | - | [Learn You a Haskell for a Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters) | - | - | -
+11 | - | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://lpn.swi-prolog.org/lpnpage.php?pageid=online) | In progress | - | [Github](https://github.com/t-miller/learn-prolog-now) 
 
 ### Core Math
 Course # | School | Course | Completion Date | Proof | Repository
