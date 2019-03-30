@@ -7,6 +7,7 @@
 </p>
 
 # Contents
+
 - [Summary](#summary)
 - [Progress](#progress)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -15,6 +16,7 @@
   - [Final Project](#final-project)
 
 # Summary
+
 This repository tracks my progress through the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science). My work is tracked in private repositories, where applicable, so that no honour policies are broken.
 
 OSSU describes the program as:
@@ -24,13 +26,17 @@ OSSU describes the program as:
 >It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 
 # Progress
+
 ## Introduction to Computer Science
+
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 1 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | - | [-]() | [-]()
 
 ## Core CS
+
 ### Core Programming
+
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 2  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | - | [-]() | [-]()  
@@ -44,6 +50,7 @@ Course # | School | Course | Completion Date | Proof | Repository
 10 | - | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://lpn.swi-prolog.org/lpnpage.php?pageid=online) | - | - | [-]() 
 
 ### Core Math
+
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 11 | - | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | -
@@ -54,6 +61,7 @@ Course # | School | Course | Completion Date | Proof | Repository
 16 | MIT OCW | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | - | - | -
 
 ### Core Systems
+
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 17 | HarvardX | [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | - | - | [-]()
@@ -63,12 +71,14 @@ Course # | School | Course | Completion Date | Proof | Repository
 21 | - | [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | - | - | -
 
 ### Core Theory
+
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 22 | Stanford Lagunita | [Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | - | - | -
 23 | Stanford Lagunita | [Algorithms: Design and Analysis, Part II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) | - | - | -
 
 ### Core Applications
+
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 24 | Stanford Lagunita | [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | - | - | -
