@@ -69,7 +69,7 @@ Course # | School | Course | Completion Date | Proof | Repository
 
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-17 | HarvardX | [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | In progress | - | [Github](https://github.com/submit50/t-miller)
+17 | HarvardX | [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | 2019/04 | [cs50.me Grade Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/17_CS50_Proof.png) | [Private Coursework](https://github.com/t-miller/cs50)
 18 | Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | - | - | -
 19 | Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | - | - | -
 20 | Stanford Lagunita | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | - | - | -
