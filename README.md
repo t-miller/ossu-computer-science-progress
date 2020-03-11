@@ -51,8 +51,8 @@ UBCx  | [Software Construction: Object-Oriented Design](https://www.edx.org/cour
 University of Washington  | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  | 2019/04 | [Coursera Grade Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/6_ProgrammingLanguagesA_Proof.png)  | [Private Coursework](https://github.com/t-miller/programming-languages-part-a)
 University of Washington  |  [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  | 2019/04 | [Coursera Grade Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/7_ProgrammingLanguagesB_Proof.png) | [Private Coursework](https://github.com/t-miller/programming-languages-part-b)
 University of Washington  | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  | 2019/05 | [Coursera Grade Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/8_ProgrammingLanguagesC_Proof.png)  | [Private Coursework](https://github.com/t-miller/programming-languages-part-c)
-- | [Learn You a Haskell for a Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters) | - | - | -
-- | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://lpn.swi-prolog.org/lpnpage.php?pageid=online) | In progress | - | [Github](https://github.com/t-miller/learn-prolog-now)
+\- | [Learn You a Haskell for a Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters) | - | - | -
+\- | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://lpn.swi-prolog.org/lpnpage.php?pageid=online) | In progress | - | [Github](https://github.com/t-miller/learn-prolog-now)
 
 ### Math Electives
 
@@ -63,7 +63,6 @@ School | Course | Completion Date | Proof | Repository
 
 School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--:
-
 MIT OCW | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | - | - | -
 
 ### Core Systems
@@ -74,7 +73,7 @@ HarvardX | [CS50's Introduction to Computer Science](https://www.edx.org/course/
 Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | In Progress | - | [Private Coursework](https://github.com/t-miller/nand2tetris)
 Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | - | - | -
 Stanford Lagunita | [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) | - | - | -
-- | [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | - | - | -
+\- | [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | - | - | -
 
 ### Core Theory
 
