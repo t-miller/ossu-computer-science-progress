@@ -39,7 +39,7 @@ OSSU describes the program as:
 
 # Template
 
-If you would like to fork this repository to track your own progress please find the blank template [here](TEMPLATE.md). Please note it is still a work in progress.
+If you would like to fork this repository to track your own progress please find the blank template [here](TEMPLATE.md).
 
 # Progress
 
