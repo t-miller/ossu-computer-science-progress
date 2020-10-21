@@ -18,6 +18,7 @@
     - [Math Electives](#math-electives)
       - [Linear Algebra](#linear-algebra)
     - [Core Math](#core-math)
+    - [CS Tools](#cs-tools)
     - [Core Systems](#core-systems)
     - [Core Theory](#core-theory)
     - [Core Security](#core-security)
@@ -76,6 +77,11 @@ If you would like to fork this repository to track your own progress please find
 | School  |                                                                                  Course                                                                                   | Completion Date | Proof | Repository |
 | :-----: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 | MIT OCW | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) |        -        |   -   |     -      |
+
+### CS Tools
+| School |                                   Course                                    | Completion Date | Proof | Repository |
+| :----: | :-------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|  MIT   | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) |        -        |   -   |     -      |
 
 ### Core Systems
 
