@@ -40,21 +40,22 @@ This repository tracks my progress through the [OSSU Computer Science curriculum
 
 OSSU describes the program as:
 
->... a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
+> ... a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
 >
->It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
+> It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 
 # Progress
 
 ## Intro CS
 
 ### Introduction to Programming
+
 | School |                    Course                     | Completion Date | Proof | Repository |
 | :----: | :-------------------------------------------: | :-------------: | :---: | :--------: |
 |   -    | [Python for Everybody](https://www.py4e.com/) |        -        |   -   |     -      |
 
-
 ### Introduction to Computer Science
+
 | School |                                                                  Course                                                                   | Completion Date | Proof | Repository |
 | :----: | :---------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 |  MITx  | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) |        -        |   -   |     -      |
@@ -72,6 +73,7 @@ OSSU describes the program as:
 | University of Washington | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) |        -        |   -   |     -      |
 
 ### Math Electives
+
 <!-- Choose one of the following -->
 
 #### Calculus
@@ -83,27 +85,32 @@ OSSU describes the program as:
 |  MITx  | [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) |        -        |   -   |     -      |
 
 #### Linear Algebra
+
 | School  |                                                Course                                                 | Completion Date | Proof | Repository |
 | :-----: | :---------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 |    -    | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |        -        |   -   |     -      |
 | MIT OCW |      [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)      |        -        |   -   |     -      |
 
 #### Logic
+
 |     School      |                                   Course                                   | Completion Date | Proof | Repository |
 | :-------------: | :------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 | Stanford Online | [Introduction to Logic](https://www.coursera.org/learn/logic-introduction) |        -        |   -   |     -      |
 
 #### Probability
+
 | School  |                                   Course                                    | Completion Date | Proof | Repository |
 | :-----: | :-------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 | Harvard | [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) |        -        |   -   |     -      |
 
 ### Core Math
+
 | School  |                                                                                  Course                                                                                   | Completion Date | Proof | Repository |
 | :-----: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 | MIT OCW | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) |        -        |   -   |     -      |
 
 ### CS Tools
+
 | School |                                   Course                                    | Completion Date | Proof | Repository |
 | :----: | :-------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 |  MIT   | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) |        -        |   -   |     -      |
@@ -128,7 +135,9 @@ OSSU describes the program as:
 | Stanford Online | [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) |        -        |   -   |     -      |
 
 ### Core Security
+
 <!-- Choose either the C/C++ or Java course -->
+
 |        School        |                                                                        Course                                                                        | Completion Date | Proof | Repository |
 | :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 | University of London |                      [Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data)                      |        -        |   -   |     -      |

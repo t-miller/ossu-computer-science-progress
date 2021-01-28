@@ -34,9 +34,9 @@ This repository tracks my progress through the [OSSU Computer Science curriculum
 
 OSSU describes the program as:
 
->... a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
+> ... a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
 >
->It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
+> It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 
 # Template
 
@@ -67,6 +67,7 @@ If you would like to fork this repository to track your own progress please find
 ### Math Electives
 
 #### Linear Algebra
+
 | School  |                                                Course                                                 | Completion Date | Proof | Repository |
 | :-----: | :---------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 |    -    | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |        -        |   -   |     -      |
@@ -79,6 +80,7 @@ If you would like to fork this repository to track your own progress please find
 | MIT OCW | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) |        -        |   -   |     -      |
 
 ### CS Tools
+
 | School |                                   Course                                    | Completion Date | Proof | Repository |
 | :----: | :-------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 |  MIT   | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) |        -        |   -   |     -      |
@@ -103,6 +105,7 @@ If you would like to fork this repository to track your own progress please find
 | Stanford Online | [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) |        -        |   -   |     -      |
 
 ### Core Security
+
 |        School        |                                                                        Course                                                                        | Completion Date | Proof | Repository |
 | :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 | University of London |                      [Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data)                      |        -        |   -   |     -      |
@@ -135,7 +138,6 @@ If you would like to fork this repository to track your own progress please find
 |     Udacity     |            [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)            |        -        |   -   |     -      |
 |     Udacity     |              [Software Testing](https://www.udacity.com/course/software-testing--cs258)              |        -        |   -   |     -      |
 |  Georgia Tech   | [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) |        -        |   -   |     -      |
-
 
 ### Advanced Applications
 
