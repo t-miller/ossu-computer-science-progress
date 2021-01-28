@@ -110,13 +110,13 @@ OSSU describes the program as:
 
 ### Core Systems
 
-|             School             |                                                        Course                                                         | Completion Date | Proof | Repository |
-| :----------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|            HarvardX            |  [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)   |        -        |   -   |     -      |
-| Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) |        -        |   -   |     -      |
-| Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)  |        -        |   -   |     -      |
-|       Stanford Lagunita        |    [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)    |        -        |   -   |     -      |
-|               -                |                             [ops-class.org - Hack the Kernel](https://www.ops-class.org/)                             |        -        |   -   |     -      |
+|             School              |                                                        Course                                                         | Completion Date | Proof | Repository |
+| :-----------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|            HarvardX             |  [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)   |        -        |   -   |     -      |
+| Hebrew University of Jerusalem  | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) |        -        |   -   |     -      |
+| Hebrew University of Jerusalem  | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)  |        -        |   -   |     -      |
+| University of Wisconsin–Madison |            [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)            |        -        |   -   |     -      |
+|        Stanford Lagunita        |    [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)    |        -        |   -   |     -      |
 
 ### Core Theory
 
