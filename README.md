@@ -38,7 +38,9 @@
 
 # Curriculum Version
 
-`Added alternative to Intro to NumAnalysis.` [314a384](https://github.com/ossu/computer-science/commits/master/README.md)
+|                                                 Curriculum                                                  |                                              |                                                                                                                                                                        |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [314a384](https://github.com/ossu/computer-science/blob/314a3844253a74b7a0cff2f441b94fdf7f933b3a/README.md) | `Added alternative to Intro to NumAnalysis.` | [Diff](https://github.com/ossu/computer-science/commit/314a3844253a74b7a0cff2f441b94fdf7f933b3a#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5) |
 
 # Summary
 
