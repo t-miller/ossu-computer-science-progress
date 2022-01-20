@@ -156,11 +156,11 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 ### Advanced Systems
 
-| Provider |                                                        Course                                                         | Completion Date | Proof | Repository |
-| :------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|   MITx   | [Computation Structures - Part 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) |        -        |   -   |     -      |
-|   MITx   |   [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)   |        -        |   -   |     -      |
-|   MITx   |  [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017)  |        -        |   -   |     -      |
+| Provider |                                                       Course                                                        | Completion Date | Proof | Repository |
+| :------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|   MITx   |   [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016)    |        -        |   -   |     -      |
+|   MITx   |  [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)  |        -        |   -   |     -      |
+|   MITx   | [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) |        -        |   -   |     -      |
 
 ### Advanced Theory
 
