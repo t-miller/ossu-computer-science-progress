@@ -33,9 +33,9 @@
 
 # Curriculum Version
 
-|                                                 Curriculum                                                  |                                              |                                                                                                                                                                        |
-| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [314a384](https://github.com/ossu/computer-science/blob/314a3844253a74b7a0cff2f441b94fdf7f933b3a/README.md) | `Added alternative to Intro to NumAnalysis.` | [Diff](https://github.com/ossu/computer-science/commit/314a3844253a74b7a0cff2f441b94fdf7f933b3a#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5) |
+|                                                 Curriculum                                                  |                                     |                                                                                                                                                                        |
+| :---------------------------------------------------------------------------------------------------------: | :---------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [460b241](https://github.com/ossu/computer-science/blob/460b241a692034b86303b1a8f668fdfeb36bcf99/README.md) | `Replace Numerical Analysis Course` | [Diff](https://github.com/ossu/computer-science/commit/460b241a692034b86303b1a8f668fdfeb36bcf99#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5) |
 
 # Summary
 
@@ -167,13 +167,13 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 ### Advanced Math
 
-|      Provider       |                                                Course                                                 | Completion Date | Proof | Repository |
-| :-----------------: | :---------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|     3Blue1Brown     | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |        -        |   -   |     -      |
-|       MIT OCW       |      [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)      |        -        |   -   |     -      |
-|   HSE University    |   [Introduction to Numerical Analysis](https://www.coursera.org/learn/intro-to-numerical-analysis)    |        -        |   -   |     -      |
-| Stanford University |              [Introduction to Logic](https://www.coursera.org/learn/logic-introduction)               |        -        |   -   |     -      |
-|       Harvard       |                      [Probability](https://projects.iq.harvard.edu/stat110/home)                      |        -        |   -   |     -      |
+|      Provider       |                                                         Course                                                          | Completion Date | Proof | Repository |
+| :-----------------: | :---------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|     3Blue1Brown     |          [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)          |        -        |   -   |     -      |
+|       MIT OCW       |               [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)               |        -        |   -   |     -      |
+|       MIT OCW       | [Introduction to Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/) |        -        |   -   |     -      |
+| Stanford University |                       [Introduction to Logic](https://www.coursera.org/learn/logic-introduction)                        |        -        |   -   |     -      |
+|       Harvard       |                               [Probability](https://projects.iq.harvard.edu/stat110/home)                               |        -        |   -   |     -      |
 
 ## Final Project
 
