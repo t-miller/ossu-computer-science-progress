@@ -109,13 +109,13 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 <!-- Choose either the C/C++ or Java course -->
 
-|       Provider       |                                                                        Course                                                                        | Completion Date | Proof | Repository |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-| University of London |                      [Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data)                      |        -        |   -   |     -      |
-|       UC Davis       |                                [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)                                |        -        |   -   |     -      |
-|       UC Davis       |                     [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)                      |        -        |   -   |     -      |
-|       UC Davis       |    [Identifying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)    |        -        |   -   |     -      |
-|       UC Davis       | [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) |        -        |   -   |     -      |
+| Provider |                                                                        Course                                                                        | Completion Date | Proof | Repository |
+| :------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|   RITx   |                                 [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)                                  |        -        |   -   |     -      |
+| UC Davis |                                [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)                                |        -        |   -   |     -      |
+| UC Davis |                     [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)                      |        -        |   -   |     -      |
+| UC Davis |    [Identifying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)    |        -        |   -   |     -      |
+| UC Davis | [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) |        -        |   -   |     -      |
 
 ### Core Applications
 
