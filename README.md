@@ -28,14 +28,15 @@
     - [Advanced Programming](#advanced-programming)
     - [Advanced Systems](#advanced-systems)
     - [Advanced Theory](#advanced-theory)
+    - [Advanced Information Security](#advanced-information-security)
     - [Advanced Math](#advanced-math)
   - [Final Project](#final-project)
 
 # Curriculum Version
 
-|                                                 Curriculum                                                  |                                     |                                                                                                                                                                        |
-| :---------------------------------------------------------------------------------------------------------: | :---------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [460b241](https://github.com/ossu/computer-science/blob/460b241a692034b86303b1a8f668fdfeb36bcf99/README.md) | `Replace Numerical Analysis Course` | [Diff](https://github.com/ossu/computer-science/commit/460b241a692034b86303b1a8f668fdfeb36bcf99#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5) |
+|              Change               |                                               Commit                                                |
+| :-------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| Add Advanced Information Security | [090236c](https://github.com/ossu/computer-science/commit/090236c3364dcb61fe037ed23c3e2d10ef88a7b8) |
 
 # Summary
 
@@ -164,6 +165,17 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 | ArsDigita University  | [Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw)  |        -        |   -   |     -      |
 |  Tsinghua University  | [Computational Geometry](https://www.edx.org/course/computational-geometry) |        -        |   -   |     -      |
 | Stanford Online & UBC |         [Game Theory](https://www.coursera.org/learn/game-theory-1)         |        -        |   -   |     -      |
+
+### Advanced Information Security
+
+|             Provider             |                                                                                  Course                                                                                  | Completion Date | Proof | Repository |
+| :------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|            KULeuvenX             |                                            [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals)                                             |        -        |   -   |     -      |
+| University of California, Irvine |                                    [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance)                                     |        -        |   -   |     -      |
+|             Infosec              |                                         [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts)                                          |        -        |   -   |     -      |
+|         LinuxFoundationX         |           [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse)           |        -        |   -   |     -      |
+|         LinuxFoundationX         |                           [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation)                           |        -        |   -   |     -      |
+|         LinuxFoundationX         | [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) |        -        |   -   |     -      |
 
 ### Advanced Math
 
