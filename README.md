@@ -130,11 +130,11 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 ### Core Ethics
 
-|              Provider              |                                                       Course                                                        | Completion Date | Proof | Repository |
-| :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-| Eindhoven University of Technology |         [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)          |        -        |   -   |     -      |
-| Saint Petersburg State University  | [Intellectual Property Law in Digital Age](https://www.coursera.org/learn/intellectual-property-law-in-digital-age) |        -        |   -   |     -      |
-|      Northeastern University       |                [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)                |        -        |   -   |     -      |
+|              Provider              |                                                   Course                                                   | Completion Date | Proof | Repository |
+| :--------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+| Eindhoven University of Technology |     [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)     |        -        |   -   |     -      |
+|     University of Pennsylvania     | [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) |        -        |   -   |     -      |
+|      Northeastern University       |           [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)            |        -        |   -   |     -      |
 
 ## Advanced CS
 
