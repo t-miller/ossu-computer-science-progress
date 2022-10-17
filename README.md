@@ -34,9 +34,9 @@
 
 # Curriculum Version
 
-|              Change               |                                               Commit                                                |
-| :-------------------------------: | :-------------------------------------------------------------------------------------------------: |
-| Add Advanced Information Security | [090236c](https://github.com/ossu/computer-science/commit/090236c3364dcb61fe037ed23c3e2d10ef88a7b8) |
+|       Change        |                                               Commit                                                |
+| :-----------------: | :-------------------------------------------------------------------------------------------------: |
+| Change Logic course | [004fbf6](https://github.com/ossu/computer-science/commit/004fbf6555b3bf69becab8c8b5cc9ae983e93f4e) |
 
 # Summary
 
@@ -179,13 +179,13 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 ### Advanced Math
 
-|      Provider       |                                                         Course                                                          | Completion Date | Proof | Repository |
-| :-----------------: | :---------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|     3Blue1Brown     |          [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)          |        -        |   -   |     -      |
-|       MIT OCW       |               [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)               |        -        |   -   |     -      |
-|       MIT OCW       | [Introduction to Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/) |        -        |   -   |     -      |
-| Stanford University |                       [Introduction to Logic](https://www.coursera.org/learn/logic-introduction)                        |        -        |   -   |     -      |
-|       Harvard       |                               [Probability](https://projects.iq.harvard.edu/stat110/home)                               |        -        |   -   |     -      |
+|      Provider      |                                                         Course                                                          | Completion Date | Proof | Repository |
+| :----------------: | :---------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|    3Blue1Brown     |          [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)          |        -        |   -   |     -      |
+|      MIT OCW       |               [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)               |        -        |   -   |     -      |
+|      MIT OCW       | [Introduction to Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/) |        -        |   -   |     -      |
+| Open Logic Project |                          [Introduction to Formal Logic](https://forallx.openlogicproject.org/)                          |        -        |   -   |     -      |
+|      Harvard       |                               [Probability](https://projects.iq.harvard.edu/stat110/home)                               |        -        |   -   |     -      |
 
 ## Final Project
 
