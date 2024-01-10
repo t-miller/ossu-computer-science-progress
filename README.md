@@ -34,9 +34,9 @@
 
 # Curriculum Version
 
-|       Change        |                                               Commit                                                |
-| :-----------------: | :-------------------------------------------------------------------------------------------------: |
-| Change Logic course | [004fbf6](https://github.com/ossu/computer-science/commit/004fbf6555b3bf69becab8c8b5cc9ae983e93f4e) |
+|                      Change                      |                                               Commit                                                |
+| :----------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| update Software Engineering: Introduction course | [17e6800](https://github.com/ossu/computer-science/commit/17e6800807aa43bd600efe4bde610b5d62f19560) |
 
 # Summary
 
@@ -54,9 +54,9 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 ### Introduction to Computer Science
 
-| Provider |                                                                     Course                                                                     | Completion Date | Proof | Repository |
-| :------: | :--------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|   MITx   | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) |        -        |   -   |     -      |
+| Provider |                                                                                  Course                                                                                   | Completion Date | Proof | Repository |
+| :------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+| MIT OCW  | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |        -        |   -   |     -      |
 
 ## Core CS
 
@@ -64,8 +64,7 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 |         Provider         |                                            Course                                            | Completion Date | Proof | Repository |
 | :----------------------: | :------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|           UBCx           |        [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data)        |        -        |   -   |     -      |
-|           UBCx           |       [How to Code: Complex Data](https://www.edx.org/course/how-to-code-complex-data)       |        -        |   -   |     -      |
+|           UBCx           |   [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015)   |        -        |   -   |     -      |
 | University of Washington |    [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)     |        -        |   -   |     -      |
 | University of Washington | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) |        -        |   -   |     -      |
 | University of Washington | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) |        -        |   -   |     -      |
@@ -120,14 +119,14 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 ### Core Applications
 
-|    Provider     |                                               Course                                               | Completion Date | Proof | Repository |
-| :-------------: | :------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-| Stanford Online |          [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)          |        -        |   -   |     -      |
-| Stanford Online |             [Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)             |        -        |   -   |     -      |
-| Stanford Online |          [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)          |        -        |   -   |     -      |
-| Stanford Online |                [Machine Learning](https://www.coursera.org/learn/machine-learning)                 |        -        |   -   |     -      |
-|  UC San DiegoX  |                [Computer Graphics](https://www.edx.org/course/computer-graphics-2)                 |        -        |   -   |     -      |
-|      UBCx       | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) |        -        |   -   |     -      |
+|    Provider     |                                                   Course                                                    | Completion Date | Proof | Repository |
+| :-------------: | :---------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+| Stanford Online |              [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)               |        -        |   -   |     -      |
+| Stanford Online |            [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)            |        -        |   -   |     -      |
+| Stanford Online |              [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)               |        -        |   -   |     -      |
+| Stanford Online |         [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)          |        -        |   -   |     -      |
+|  UC San DiegoX  |                     [Computer Graphics](https://www.edx.org/course/computer-graphics-2)                     |        -        |   -   |     -      |
+|       IBM       | [Introduction to Software Engineering](https://www.coursera.org/learn/introduction-to-software-engineering) |        -        |   -   |     -      |
 
 ### Core Ethics
 
